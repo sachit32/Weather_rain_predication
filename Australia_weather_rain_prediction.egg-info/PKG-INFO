@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: Australia_weather_rain_prediction
+Version: 0.1
+Author: Sachit
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: setuptools
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: joblib
+Dynamic: author
+Dynamic: requires-dist
